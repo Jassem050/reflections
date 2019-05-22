@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+When repository is initialized it displays a message "Initialized empty Git repository ".
+it is needed to create a git repo.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is an intermediary between working directory and repository. It is useful for commiting only what we 
+want together at once, instead of commiting again and again. 
