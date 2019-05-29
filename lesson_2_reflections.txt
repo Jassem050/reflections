@@ -6,3 +6,21 @@ it is needed to create a git repo.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is an intermediary between working directory and repository. It is useful for commiting only what we 
 want together at once, instead of commiting again and again. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+By comparing staging area with the recent commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be helpful for creating new feature experimentation instead of creating in master branch.
+Branches would help in creating and testing new features of a project and can be merged to master branch.
+
+How do the diagrams help you visualize the branch structure?
+it helps to view the seperate branches and commits of the repo more clearly.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branches together a new feature is added to the master branch. For clear understanding.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:
+#saves time.
+cons:
