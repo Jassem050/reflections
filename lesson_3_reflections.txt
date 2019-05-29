@@ -5,3 +5,5 @@ access or edit files or create seperate branches.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
 with your remote repository?
 Unless a change is made in remote repo that are not in local, there is no need to pull.
+
+
