@@ -6,4 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 with your remote repository?
 Unless a change is made in remote repo that are not in local, there is no need to pull.
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is to create a copy of repo in github.
+Clone is to create a copy of repo in local machine.
+Branches are labled commits of repo that are different from master.
+Fork is used to copy repo from another github account to out github instead of clone.
