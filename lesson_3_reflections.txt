@@ -14,3 +14,7 @@ Fork is used to copy repo from another github account to out github instead of c
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To know the status of the remote repo and local and to remove conflicts.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I think it is harder to collaborate without git or github.
